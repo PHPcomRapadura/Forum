@@ -17,5 +17,5 @@ Você pode querer receber atualizações do fórum em seu email ou via notifica�
 Para isso, basta clicar em Watch e, em seguida, clicar em Watching no canto superior direito da interface do site, próximo a sua foto de perfil.
 
 <p align="center">
-  <img src="http://s31.postimg.org/nt5f6bbff/watch_github_forum.png" alt="Watch GitHub repo"/>
+  <img src="https://raw.githubusercontent.com/PHPcomRapadura/Forum/master/watching.png" alt="Watch GitHub repo"/>
 </p>
